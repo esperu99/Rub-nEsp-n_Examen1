@@ -105,3 +105,29 @@ div#fresh h3{
     font-weight: 600;
     margin: 20px 0px;
 }
+div#youare{
+    display: flex;
+    background-color: #F4F4F4;
+    justify-content: center;
+    align-items: center;
+    height: 541px;
+    gap: 80px;
+}
+div#youare h3{
+    font-size: 50.52px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.youare{
+    display: flex;
+}
+.youare div{
+    width: 237px;
+}
+div.bloques{
+    display: flex;
+    gap: 70px;
+}
+#youare p{
+    width: 237px;
+}
