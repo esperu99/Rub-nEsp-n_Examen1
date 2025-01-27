@@ -112,6 +112,7 @@ div#youare{
     align-items: center;
     height: 541px;
     gap: 80px;
+    margin-bottom: 100px;
 }
 div#youare h3{
     font-size: 50.52px;
@@ -130,4 +131,59 @@ div.bloques{
 }
 #youare p{
     width: 237px;
+}
+div#fondo{
+    background-image: url(imagenes/fondo.png);
+    max-height: 667px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div#fondo p{
+    width: 650px;
+    padding-bottom: 20px;
+}
+div#fondo h3{
+   font-size: 37.9px;
+   font-weight: 600; 
+   margin-bottom: 0px;
+}
+div#fondo button{
+    background-color:rgba(0, 0, 255, 0);
+    color: #FFFFFF;
+    border-radius: 67px;
+    width: 251px;
+    height: 56px;
+    font-size: 21.33px;
+    font-weight: 600px;
+    border: 1px solid #FFFFFF;
+    margin-left: 190px;
+    margin-bottom: 200px;
+}
+div#fondo img{
+    margin-left: 270px;
+}
+div#fondo div{
+    padding-top: 110px;
+}
+
+
+
+
+
+
+
+div#rosa{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FCE2D7;
+    height: 356px;
+    width: 1165px;
+    margin: -150px 10px 100px 75px;
+}
+div.bloquerosa{
+    display: flex;
 }
